@@ -1,6 +1,6 @@
-## Bezzie
+## BusinessPlus-Ecommerce-App
 
-A Frappe app to integarte Bezzie e-commerce mobile application with ERPNext
+A Frappe app to integarte e-commerce mobile application with ERPNext
 
 #### License
 
